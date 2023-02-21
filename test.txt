@@ -9,6 +9,10 @@ develop add  222
 
 https://github.com/00feng00/font-end-improve/blob/main/README.md
 
+https://www.cnblogs.com/abdm-989/p/14290578.html
+https://www.51cto.com/article/618792.html
+https://www.cnblogs.com/smilexumu/p/9039251.html
+
 
 Cookie 和 Session 的区别
 安全性： Session 比 Cookie 安全，Session 是存储在服务器端的，Cookie 是存储在客户端的。
